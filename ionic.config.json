@@ -1,0 +1,7 @@
+{
+  "name": "rdummy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

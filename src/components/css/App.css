@@ -1,0 +1,14 @@
+.header{
+    height: 50px;
+    text-align: center;
+    padding: 17px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.card{
+    color: tomato;
+    padding: 10px;
+}
+.card-body{
+    margin-left: 10px;
+}
